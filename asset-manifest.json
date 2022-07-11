@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stylish-adding-items-react/static/css/main.0027e033.chunk.css",
+    "main.js": "/stylish-adding-items-react/static/js/main.9fd30d27.chunk.js",
+    "main.js.map": "/stylish-adding-items-react/static/js/main.9fd30d27.chunk.js.map",
+    "runtime-main.js": "/stylish-adding-items-react/static/js/runtime-main.f53e7754.js",
+    "runtime-main.js.map": "/stylish-adding-items-react/static/js/runtime-main.f53e7754.js.map",
+    "static/js/2.7dd8ef88.chunk.js": "/stylish-adding-items-react/static/js/2.7dd8ef88.chunk.js",
+    "static/js/2.7dd8ef88.chunk.js.map": "/stylish-adding-items-react/static/js/2.7dd8ef88.chunk.js.map",
+    "index.html": "/stylish-adding-items-react/index.html",
+    "static/css/main.0027e033.chunk.css.map": "/stylish-adding-items-react/static/css/main.0027e033.chunk.css.map",
+    "static/js/2.7dd8ef88.chunk.js.LICENSE.txt": "/stylish-adding-items-react/static/js/2.7dd8ef88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f53e7754.js",
+    "static/js/2.7dd8ef88.chunk.js",
+    "static/css/main.0027e033.chunk.css",
+    "static/js/main.9fd30d27.chunk.js"
+  ]
+}
